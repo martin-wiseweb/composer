@@ -133,6 +133,9 @@ Download and run
 install the latest Composer version and set up your PATH so that you can just
 call `composer` from any directory in your command line.
 
+You will want to add C:\Users\(YOUR USERNAME)\AppData\Roaming\Composer\vendor\bin
+to your PATH variable to make sure that installed packages are available to you.
+
 > **Note:** Close your current terminal. Test usage with a new terminal: This is
 > important since the PATH only gets loaded when the terminal starts.
 
